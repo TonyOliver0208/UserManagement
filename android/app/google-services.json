@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750495379261",
+    "project_id": "rn-usermanager",
+    "storage_bucket": "rn-usermanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750495379261:android:7ac93e6845c33ad2289f54",
+        "android_client_info": {
+          "package_name": "com.usermanagementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOWXs5SPs2SkXvI29vdY9EyUa28e3NKcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

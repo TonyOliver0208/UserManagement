@@ -10,8 +10,15 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^20.5.0",
+    "@react-native-firebase/firestore": "^20.5.0",
+    "axios": "^1.7.7",
+    "formik": "^2.4.6",
     "react": "18.3.1",
-    "react-native": "0.75.3"
+    "react-native": "0.75.3",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-keyboard-aware-scrollview": "^2.1.0",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
